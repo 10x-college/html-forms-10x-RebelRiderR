@@ -40,7 +40,7 @@ Earth needs to know who is sending the message.
 
 2. **Pilot Name:** 
    - Create a `<label>` element with the text "Pilot Name:"
-   - Give the label a `for` attribute with a unique value (like "pilot-name")
+   - Give the label a `for` attribute with a unique value (like " ")
    - Create an `<input>` element with `type` attribute set to "text"
    - Give the input an `id` attribute that matches the label's `for` value
    - Add a `name` attribute to the input (use something like "pilot_name")
